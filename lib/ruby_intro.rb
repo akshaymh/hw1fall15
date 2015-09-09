@@ -4,12 +4,7 @@
 
 def sum arr
   # YOUR CODE HERE
-  sum=0
-  arr.each {|a| sum+=a}
-  sum
 end
-arr=[1,2,3,4]
-sum arr
 
 def max_2_sum arr
   # YOUR CODE HERE
